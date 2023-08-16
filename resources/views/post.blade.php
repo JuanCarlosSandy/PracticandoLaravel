@@ -13,5 +13,6 @@
         <p><b> Id Post: </b> {{$p['post_id']}}</p>
         <p><b> Comentario: </b> {{$p['comment']}}</p>
     @endforeach 
+    <h4>GERMAN ESTUVO AQUI :D </h4>
 </body>
 </html>
